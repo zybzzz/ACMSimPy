@@ -5,6 +5,7 @@ collect_data.py
 __pycache__/
 .vscode/
 .git/
+.idea/
 .pyc
 
 *.code-workspace
